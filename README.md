@@ -45,4 +45,4 @@ and to exit the virtual environment you have to execute the following command in
 deactivate
 ~~~
 
-I hope this project will serve as a reference in the creation of API with python.
+I hope this project will serve as a reference in the creation of API with python and connected to a SQLite database.
