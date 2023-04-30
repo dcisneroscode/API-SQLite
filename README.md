@@ -1,6 +1,6 @@
 # API-SQLite
 
-This project is an API created with the FastAPI python framework where it has paths for obtaining, creating, updating and deleting movies with data permanence through a SQLite database. 
+This project is a CRUD made with python with its FastAPI framework for the creation of the API and SQLite as a database for data storage.
 
 In order to use the project you must create a folder and install a python virtual environment with the following command:
 
